@@ -273,7 +273,8 @@ ul { list-style: none; }
 
 .hero__title {
   font-size: clamp(5rem, 21.5vw, 21rem);
-  text-align: center;
+  text-align: left;
+  padding: 0 var(--pad);
   margin-bottom: -0.02em;
   letter-spacing: 0.02em;
 }
